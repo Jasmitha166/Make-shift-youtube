@@ -27,6 +27,4 @@ This project is a simple YouTube clone built using HTML and CSS. It replicates t
 - Improve styling for a more polished UI.
 - Implement a search and video player functionality.
 
----
-**Author:** [Your Name]  
-**Date:** [YYYY-MM-DD]
+
